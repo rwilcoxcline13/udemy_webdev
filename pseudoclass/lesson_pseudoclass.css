@@ -1,0 +1,36 @@
+.container:hover {
+
+  background: purple;
+
+}
+
+.container_2 h1:hover {
+  background: green;
+}
+
+.container_2 h2:hover {
+  background: blue;
+}
+
+button:hover {
+  color: white;
+
+}
+
+button:focus {
+  border-radius: 40px;
+  background-color: #2ecc71
+}
+input:focus {
+  background-color: teal;
+}
+
+button:active {
+  background-color: orange;
+  font-size: 30px;
+}
+
+h1:active, p:active {
+  color:yellow;
+
+}
